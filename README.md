@@ -1,0 +1,2 @@
+# FASTAStats
+FASTA file statistics
